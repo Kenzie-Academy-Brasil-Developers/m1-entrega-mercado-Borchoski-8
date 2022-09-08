@@ -22,7 +22,7 @@ const products = [
   },
   {
     title: "Maçã",
-    price: 9.2,
+    price: 9.29,
     category: "Frutas",
     image: "./img/products/product_4.svg",
     imageDescription: "",
